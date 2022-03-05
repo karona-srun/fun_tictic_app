@@ -64,15 +64,15 @@ class _MyHomePageState extends State<MyHomePage> {
               isLoop: true,
               children: [
                 Image.asset(
-                  'slides/1.jpg',
+                  'assets/images/1.jpg',
                   fit: BoxFit.contain,
                 ),
                 Image.asset(
-                  'slides/2.jpg',
+                  'assets/images/2.jpg',
                   fit: BoxFit.contain,
                 ),
                 Image.asset(
-                  'slides/3.jpg',
+                  'assets/images/3.jpg',
                   fit: BoxFit.contain,
                 ),
               ],
